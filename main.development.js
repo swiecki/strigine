@@ -37,8 +37,9 @@ app.on('ready', async () => {
 
   mainWindow = new BrowserWindow({
     show: false,
-    width: 1024,
-    height: 728
+    width: 540,
+	height: 300,
+	frame: false
   });
 
   mainWindow.loadURL(`file://${__dirname}/app/app.html`);
