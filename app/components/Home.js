@@ -6,8 +6,13 @@ import styles from './Home.css';
 export default class Home extends Component {
   render() {
 	  const opts = {
+		  width: 854,
+		  height: 480,
 		  playerVars: {
-			  autoplay:1
+			  autoplay:1,
+			  enablejsapi:1,
+			  modestbranding:1,
+			  showinfo:0
 		  }
 	  };
 
