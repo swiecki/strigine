@@ -18,6 +18,7 @@ Also:
 - [React Transform HMR](https://github.com/gaearon/react-transform-hmr) 
 * [Devtron](https://github.com/electron/devtron)
 
+---
 #### Strigine *[strĭʹjīn]*  
 *(adjective)*  
 1. Of or pertaining to owls.  
