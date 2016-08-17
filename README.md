@@ -3,13 +3,12 @@
 Condensed and clean YouTube player.
 
 ## Screenshot
+![](https://raw.githubusercontent.com/swiecki/strigine/master/screenshot.jpg)
 
->to be added later
 
 Built with:
 - [React-YouTube](https://github.com/troybetz/react-youtube)
 - [Electron-React-Boilerplate](https://github.com/chentsulin/electron-react-boilerplate)
-Also:
 - [Electron](http://electron.atom.io/) 
 - [React](https://facebook.github.io/react/)
 - [Redux](https://github.com/reactjs/redux)
