@@ -1,10 +1,6 @@
 # Strigine
 
-Condensed and clean YouTube player.
-
-## Screenshot
-![](https://raw.githubusercontent.com/swiecki/strigine/master/screenshot.jpg)
-
+Strigine is a compact, borderless, and resizeable YouTube player used for watching videos in small section of your screen. By default, YouTube doesn't work well in a small browser window. Strigine removes the YouTube header, sidebar, and browser frame, resulting in a compact player that fits perfectly on your desktop.
 
 Built with:
 - [React-YouTube](https://github.com/troybetz/react-youtube)
@@ -16,6 +12,14 @@ Built with:
 - [Webpack](http://webpack.github.io/docs/)
 - [React Transform HMR](https://github.com/gaearon/react-transform-hmr) 
 * [Devtron](https://github.com/electron/devtron)
+
+## Screenshot
+![](https://raw.githubusercontent.com/swiecki/strigine/master/screenshot.jpg)
+![](https://raw.githubusercontent.com/swiecki/strigine/master/screenshot2.png)
+
+###Todo
+- users should be able to paste links to load youtube videos of their choosing
+- users should be able to quit window without keyboard shortcut
 
 ---
 #### Strigine *[strĭʹjīn]*  
